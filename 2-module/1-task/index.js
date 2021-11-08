@@ -7,4 +7,4 @@ for( let key in salaries){
     } 
 }return (sum);
 }
-console.log (sumSalary(salaries));
+
